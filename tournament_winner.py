@@ -9,6 +9,8 @@
     
     *** competitions[0] = ['Home Team', 'Away Team']
     *** results: 0 - Away Win, 1 - Home Win
+    
+    Sample Output: Celtics
 '''
 
 def tournament_winner(competitions, results):
